@@ -28,3 +28,15 @@ Designing interactive and visually appealing reports and dashboards.
 Utilizing DAX to perform advanced data analysis.
 
 Sharing and collaborating on Power BI reports with colleagues and stakeholders.
+
+<img width="593" alt="Page_1" src="https://github.com/HarjaapSinghJeji/PowerBI-Analytics--SalesAnalysis/assets/123519298/7d4e2afc-e185-449c-91de-f50717eb74e5">
+
+<img width="569" alt="Page_2" src="https://github.com/HarjaapSinghJeji/PowerBI-Analytics--SalesAnalysis/assets/123519298/df1c1635-7611-4eeb-aec4-6db14fb83278">
+
+<img width="592" alt="Page_3" src="https://github.com/HarjaapSinghJeji/PowerBI-Analytics--SalesAnalysis/assets/123519298/952c7860-213d-4cbf-a3ed-494e1afe1b04">
+
+<img width="586" alt="Page_4" src="https://github.com/HarjaapSinghJeji/PowerBI-Analytics--SalesAnalysis/assets/123519298/c461de14-a928-491c-a7ab-7d4d72b7d0eb">
+
+
+
+
